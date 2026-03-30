@@ -117,15 +117,6 @@ Data was cleaned and transformed using Power Query:
 
 ---
 
-## Recommendations
-- Implement periodic asset utilization reviews
-- Reallocate or decommission idle assets
-- Track and renew warranties proactively
-- Monitor lifecycle to plan replacements
-- Assign ownership to all active assets
-
----
-
 ## Business Impact
 This dashboard enables organizations to:
 - Reduce unnecessary costs
