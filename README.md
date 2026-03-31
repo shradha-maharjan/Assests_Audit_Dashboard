@@ -145,3 +145,7 @@ This dashboard enables organizations to:
 
 ## 🏁 Conclusion
 This project simulates a real-world IT audit scenario by combining data analysis, visualization, and risk assessment to improve asset management in a healthcare environment.
+
+
+<img width="571" height="326" alt="image" src="https://github.com/user-attachments/assets/e10cf64d-ecb5-4687-808c-a856cbb9d32a" />
+
