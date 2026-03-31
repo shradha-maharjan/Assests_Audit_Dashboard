@@ -1,4 +1,5 @@
 # Healthcare IT Asset Audit Dashboard
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/e10cf64d-ecb5-4687-808c-a856cbb9d32a" />
 
 ## Project Overview
 This project focuses on building a **Healthcare IT Asset Audit Dashboard** using Power BI to monitor asset utilization, lifecycle, and compliance risks. The dashboard simulates how IT auditors and operations teams analyze asset data to identify inefficiencies, reduce financial waste, and ensure proper asset management.
@@ -143,9 +144,6 @@ This dashboard enables organizations to:
 
 ---
 
-## 🏁 Conclusion
+## Conclusion
 This project simulates a real-world IT audit scenario by combining data analysis, visualization, and risk assessment to improve asset management in a healthcare environment.
-
-
-<img width="571" height="326" alt="image" src="https://github.com/user-attachments/assets/e10cf64d-ecb5-4687-808c-a856cbb9d32a" />
 
